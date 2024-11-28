@@ -1,0 +1,44 @@
+- title: "Started as Research Assistant at The University of Queensland"
+  date: 2022-11-01
+  description: "Contributed to the application of privacy and cybersecurity techniques in home energy data, supervised by Dr. Yanjun Zhang. "
+  status: home
+
+- title: "Started PhD at The University of Queensland"
+  date: 2022-04-01
+  description: "Began my PhD in information retrieval at The University of Queensland."
+  status: home
+
+- title: "Present Paper at ADCS 2022, Received Best Student Paper Award"
+  date: 2022-12-15
+  url: http://adcs-conference.org/2022/
+  description: "Presented the ranker robustness paper as second author in Adelaide, Australia, and shared the Best Student Paper Award with Shengyao Zhuang."
+  status: travel
+
+- title: "One Reproducibility Paper Accepted at ECIR 2024"
+  date: 2023-12-15
+  description: "[Reproducibility Paper]: A Reproducibility Study of Goldilocks: Just-Right Tuning of BERT for TAR. has been accepted to ECIR 2024."
+  status: celebrate
+
+- title: "Research Visit at Leipzig University"
+  date: 2024-03-01
+  url: https://temir.org/people.html
+  description: "Visiting Leipzig University for two months to collaborate on research project related to systematic review automation."
+  status: travel
+
+- title: "Present Paper at ECIR 2024, Glasgow, Scotland"
+  date: 2024-03-25
+  url: https://ecir2024.org/
+  description: "Presented a paper on reproducibility of BERT-based TAR in systematic review at the ECIR 2024 conference."
+  status: travel
+
+- title: "One paper (Short) Accepted at SIGIR 2024"
+  date: 2024-03-26
+  description: "[Short Paper]: Dense Retrieval with Continuous Explicit Feedback for Systematic Review Screening Prioritisation"
+  status: celebrate
+
+- title: "Poster Presentations at SIGIR 2024, Washington D.C, USA"
+  date: 2024-07-15
+  url: https://sigir.org/sigir2024/
+  description: "Presented a poster at the SIGIR 2024 conference in Washington D.C, USA."
+  status: travel
+

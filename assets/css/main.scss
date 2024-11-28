@@ -39,3 +39,97 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
+
+/* News Section */
+
+/* Container Styling */
+.news-item {
+  margin-bottom: 1.5rem;
+  position: relative;
+  padding: 1rem;
+  background-color: #f5f5f5; /* Neutral light gray background */
+  border-left: 4px solid #3E1B60; /* Darker purple accent */
+  border-radius: 5px; /* Rounded corners for a softer look */
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Subtle shadow for separation */
+}
+
+.news-item:hover {
+  background-color: #e9e9e9; /* Slightly darker gray on hover */
+  border-left-color: #2A1440; /* Darker purple on hover */
+}
+
+.news-status {
+  position: absolute;
+  top: 0.5rem;
+  left: -2rem;
+  font-size: 1rem;
+  color: #3E1B60; /* Darker purple for icons */
+}
+
+/* Date and Description Styling */
+.news-date {
+  margin-right: 1rem;
+  font-size: 0.85rem;
+  color: #666; /* Neutral dark gray */
+  font-style: italic;
+}
+
+.news-title {
+  margin: 0;
+  font-size: 1.2rem;
+  font-weight: bold;
+  color: #333; /* Dark gray for professional tone */
+}
+
+.news-description {
+  margin-top: 0.5rem;
+  font-size: 0.9rem;
+  color: #555; /* Subtle, less prominent description text */
+  line-height: 1.5;
+}
+
+/* Links */
+.news-link {
+  margin-top: 0.5rem;
+  font-size: 0.9rem;
+  color: #3E1B60; /* Darker purple accent */
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.news-link:hover {
+  text-decoration: underline;
+  color: #2A1440; /* Darker purple on hover */
+}
+
+/* List Styling */
+ul {
+  margin-top: 1.5rem;
+  margin-bottom: 1.5rem;
+  padding-left: 1.5rem;
+  list-style: none; /* Removed bullets for cleaner look */
+}
+
+ul li {
+  margin-bottom: 1.25rem;
+  line-height: 1.6;
+}
+
+ul {
+  list-style: disc; /* Reverts to standard bullets */
+}
+
+ul li::before {
+  content: none; /* Removes the custom purple bullet */
+}
+
+/* Icons */
+.fa-plane:before {
+  content: "\f072";
+  color: #3E1B60; /* Dark purple for icons */
+}
+
+.fa-home:before {
+  content: "\f015";
+  color: #3E1B60;
+}
