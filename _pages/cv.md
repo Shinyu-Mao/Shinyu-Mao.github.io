@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * Ph.D, The University of Queensland, 2025 (expected)
-* M.S. in Data Science, The University of Queensland, 2022
+* M.S. in Data Science, The University of Queensland, 2021
 * B.A. in English Literature, Shanghai Ocean University, 2019
 * B.E. in Mechanical Engineering, Shanghai Ocean University, 2019
 
