@@ -42,3 +42,7 @@
   description: "Presented a poster at the SIGIR 2024 conference in Washington D.C, USA."
   status: travel
 
+- title: "One paper (Demo) Accepted at ECIR 2025"
+  date: 2024-12-16
+  description: "[Demo Paper]: DenseReviewer: A Screening Prioritisation Tool for Systematic Review based on Dense Retrieval"
+  status: celebrate
