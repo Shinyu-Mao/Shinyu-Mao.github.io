@@ -6,7 +6,7 @@ excerpt:
 date: 2025-04-03
 venue: 'Proceedings of the 47th European Conference on Information Retrieval (ECIR)'
 slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
-paperurl: 'https://arxiv.org/pdf/2407.00635'
+paperurl: 'https://arxiv.org/pdf/2502.03400'
 citation: 'Xinyu Mao, Teerapong Leelanupab, Harrisen Scells, Guido Zuccon. 2025. DenseReviewer: A Screening Prioritisation Tool for Systematic Review based on Dense Retrieval. In Proceedings of the 47th European Conference on Information Retrieval (ECIR 2025).'
 ---
 ## Abstract
