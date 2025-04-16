@@ -46,3 +46,8 @@
   date: 2024-12-16
   description: "[Demo Paper]: DenseReviewer: A Screening Prioritisation Tool for Systematic Review based on Dense Retrieval"
   status: celebrate
+
+- title: "One paper (Demo) Accepted at SIGIR 2025"
+  date: 2025-04-05
+  description: "[Demo Paper]: AiReview: An Open Platform for Accelerating Systematic Reviews with LLMs"
+  status: celebrate
