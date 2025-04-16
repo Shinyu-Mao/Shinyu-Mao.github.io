@@ -23,9 +23,10 @@ I tutor at UQ for **DATA7001: Introduction to Data Science** (2023) and **INFS74
 
 ## Services
 
-I serve as a reviewer/PC member for the following conferences:
+I serve as a reviewer/PC member for the following conferences/journals:
 
 - ACM ICTIR 2023
+- Patterns
 
 
 ## Publications
